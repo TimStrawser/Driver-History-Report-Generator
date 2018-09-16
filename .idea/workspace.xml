@@ -8,10 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d2dc12a-3dc8-4db7-bb2a-087cea200488" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drive_history_input/driver_history_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drive_history_input/driver_history_input_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DriverHistoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DriverHistoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/DriverHistoryReportGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/DriverHistoryReportGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,10 +93,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-165" />
-    <option name="y" value="160" />
-    <option name="width" value="1615" />
-    <option name="height" value="860" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -323,14 +320,11 @@
       <workItem from="1535921305517" duration="45710000" />
       <workItem from="1536318813748" duration="233000" />
       <workItem from="1537110315675" duration="378000" />
-      <workItem from="1537124093107" duration="1338000" />
+      <workItem from="1537124093107" duration="1770000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DriverTest - 2018.09.05 at 21h 00m 56s.xml">
-      <configuration name="DriverTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TripTest - 2018.09.05 at 21h 03m 14s.xml">
       <configuration name="TripTest" configurationId="JUnit" />
     </history-entry>
@@ -358,9 +352,12 @@
     <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 13m 51s.xml">
       <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 17m 15s.xml">
+      <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47659000" />
+    <option name="totallyTimeSpent" value="48091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -375,11 +372,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25478646" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36082473" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27393225" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24496645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24496645" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -600,7 +597,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>

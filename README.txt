@@ -4,12 +4,15 @@ The Root Drive History Application
 @version: 9-5-18
 @contact: 614-406-7082, tstrawser777@gmail.com
 
+
 @description:
 	This is a Java application that processes an input file consisting of customer names (Drivers), and logs 
 	of their various trips. A report is then generated and output to a file, detailing each driver's name, 
 	how many miles they traveled, and their average driving speed. The application locates the input files inside 
 	an input directory and outputs the reports to an output directory. Both directories are located in the project
-	folder. 
+	folder.
+
+@ToRun: Execute the RootDriveHistoryApp.jar file, from command line in the project directory "java -jar RootDriveHistoryApp.jar"	
 
 @requirements:
 	The Java SE Development Kit 8
