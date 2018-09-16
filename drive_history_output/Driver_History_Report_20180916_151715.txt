@@ -1,4 +1,0 @@
-Dan: 160 miles @ 55 mph
-Alex: 45 miles @ 36 mph
-Sarah: 19 miles @ 39 mph
-Bob: 0 miles
