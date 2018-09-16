@@ -58,7 +58,7 @@ public class DriverHistoryReportGeneratorTest {
         assertFalse(report.consumeInput("Invalid_File.txt"));
 
         //Give valid input file
-        assertTrue(report.consumeInput("driver_history_input.txt"));
+        assertTrue(report.consumeInput("driverInput.txt"));
     }
 
     /**
@@ -125,7 +125,7 @@ public class DriverHistoryReportGeneratorTest {
         DriverHistoryReportGenerator report = new
                 DriverHistoryReportGenerator();
 
-        assertTrue(report.consumeInput("driver_history_input.txt"));
+        assertTrue(report.consumeInput("driverInput.txt"));
         assertTrue(report.outputReportFile());
 
     }

@@ -21,7 +21,7 @@ public class DriverHistoryDemo {
         Scanner input = new Scanner(System.in);
         System.out.println("From the list of available input files below, " +
                 "please enter the full name of an input file to " +
-                "generate a report.");
+                "generate a report.\n");
         int counter = 1;
         for (File file : files) {
             System.out.println(counter + ". " + file.getName() + "\n");
