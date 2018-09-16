@@ -2,7 +2,7 @@ The Root Drive History Application
 
 @author: Tim Strawser
 @version: 9-5-18
-@contact: 614-406-7082, tstrawser777@gmail.com
+@contact: tstrawser777@gmail.com
 
 
 @description:
