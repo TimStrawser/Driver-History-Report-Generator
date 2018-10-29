@@ -34,4 +34,4 @@ The Root Drive History Application
 	that does not require a return, I often have it return a boolean value to validate success and ensure post conditions
 	have been met before the program continues. 
 
-@thanks!: Thank you for taking the time to review this application and I greatly appreciate the opportunity!
+@thanks!: Thank you for taking the time to review this application!
