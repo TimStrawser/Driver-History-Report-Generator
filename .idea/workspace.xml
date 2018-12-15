@@ -8,9 +8,18 @@
   <component name="ChangeListManager">
     <list default="true" id="9d2dc12a-3dc8-4db7-bb2a-087cea200488" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RootDriveHistoryApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RootDriveHistoryApp.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180916_110649.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180916_151715.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RootDriveHistoryApp/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RootDriveHistoryApp/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RootDriveHistoryApp/DriverHistoryReportGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RootDriveHistoryApp/DriverHistoryReportGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RootDriveHistoryApp/Trip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RootDriveHistoryApp/Trip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/RootDriveHistoryApp/DriverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/RootDriveHistoryApp/DriverTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/RootDriveHistoryApp/TripTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/RootDriveHistoryApp/TripTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DriverHistoryReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DriverHistoryReportGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/DriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/DriverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TripTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TripTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +44,74 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Trip.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Trip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TripTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/TripTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/DriverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2142">
+              <caret line="128" column="19" selection-start-line="128" selection-start-column="19" selection-end-line="128" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="30" column="85" selection-start-line="30" selection-start-column="85" selection-end-line="30" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverHistoryReportGeneratorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/DriverHistoryReportGeneratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Driver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2278">
+              <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverHistoryReportGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DriverHistoryReportGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1817">
+              <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,14 +128,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/Driver.java" />
-        <option value="$PROJECT_DIR$/tests/DriverTest.java" />
-        <option value="$PROJECT_DIR$/src/Trip.java" />
-        <option value="$PROJECT_DIR$/tests/TripTest.java" />
         <option value="$PROJECT_DIR$/drive_history_input/driver_history_input.txt" />
-        <option value="$PROJECT_DIR$/src/DriverHistoryReportGenerator.java" />
         <option value="$PROJECT_DIR$/tests/DriverHistoryReportGeneratorTest.java" />
         <option value="$PROJECT_DIR$/src/DriverHistoryDemo.java" />
+        <option value="$PROJECT_DIR$/src/Trip.java" />
+        <option value="$PROJECT_DIR$/tests/TripTest.java" />
+        <option value="$PROJECT_DIR$/src/Driver.java" />
+        <option value="$PROJECT_DIR$/tests/DriverTest.java" />
+        <option value="$PROJECT_DIR$/src/DriverHistoryReportGenerator.java" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
@@ -75,15 +152,16 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,14 +182,23 @@
             <path>
               <item name="RootDriveHistoryApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="RootDriveHistoryApp" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RootDriveHistoryApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RootDriveHistoryApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RootDriveHistoryApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RootDriveHistoryApp" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,9 +362,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in RootDriveHistoryApp" />
-        <item itemvalue="Application.DriverHistoryDemo" />
-        <item itemvalue="JUnit.TripTest" />
         <item itemvalue="JUnit.DriverTest" />
+        <item itemvalue="JUnit.TripTest" />
+        <item itemvalue="Application.DriverHistoryDemo" />
         <item itemvalue="JUnit.DriverHistoryReportGeneratorTest" />
       </list>
     </recent_temporary>
@@ -297,44 +384,46 @@
       <workItem from="1537110315675" duration="378000" />
       <workItem from="1537124093107" duration="1770000" />
       <workItem from="1537126070452" duration="854000" />
-      <workItem from="1537127477708" duration="429000" />
+      <workItem from="1537127477708" duration="510000" />
+      <workItem from="1537453909770" duration="4894000" />
+      <workItem from="1544893350215" duration="261000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TripTest - 2018.09.16 at 11h 06m 03s.xml">
-      <configuration name="TripTest" configurationId="JUnit" />
+    <history-entry file="DriverTest - 2018.09.20 at 11h 25m 52s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 14h 55m 09s.xml">
+    <history-entry file="DriverTest - 2018.09.20 at 11h 26m 09s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverTest - 2018.09.20 at 11h 26m 24s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverTest - 2018.09.20 at 11h 30m 03s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverTest - 2018.09.20 at 11h 30m 27s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DriverTest - 2018.09.20 at 11h 31m 27s.xml">
+      <configuration name="DriverTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.20 at 11h 35m 17s.xml">
       <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 05m 32s.xml">
+    <history-entry file="All_in_RootDriveHistoryApp - 2018.12.15 at 12h 03m 19s.xml">
       <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 10m 28s.xml">
+    <history-entry file="All_in_RootDriveHistoryApp - 2018.12.15 at 12h 04m 29s.xml">
       <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 13m 18s.xml">
-      <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 13m 51s.xml">
-      <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 17m 15s.xml">
-      <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 29m 45s.xml">
-      <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 52m 44s.xml">
-      <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_RootDriveHistoryApp - 2018.09.16 at 15h 57m 12s.xml">
+    <history-entry file="All_in_RootDriveHistoryApp - 2018.12.15 at 12h 05m 04s.xml">
       <configuration name="All in RootDriveHistoryApp" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49374000" />
+    <option name="totallyTimeSpent" value="54610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -349,11 +438,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36671576" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27393225" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5817379" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27393225" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21409395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21946308" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -382,13 +471,55 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Trip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TripTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/DriverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" column="19" selection-start-line="128" selection-start-column="19" selection-end-line="128" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/DriverHistoryReportGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DriverHistoryReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DriverHistoryDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -403,9 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -420,10 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -451,10 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -500,50 +620,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/drive_history_input/driver_history_input_2.txt" />
-    <entry file="file://$PROJECT_DIR$/tests/TripTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/drive_history_input/driver_history_input.txt" />
-    <entry file="file://$PROJECT_DIR$/src/DriverHistoryReportGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180916_110649.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180907_071422.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180916_110649.txt" />
     <entry file="file://$PROJECT_DIR$/RootDriveHistoryApp.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2024">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180916_151439.txt" />
     <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180916_151424.txt" />
@@ -552,23 +632,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TripTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180907_071422.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180916_110541.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drive_history_input/driverInput.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20180920_113517.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/DriverHistoryReportGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DriverHistoryReportGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1817">
+          <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/drive_history_output/Driver_History_Report_20181215_120428.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/DriverTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="2142">
+          <caret line="128" column="19" selection-start-line="128" selection-start-column="19" selection-end-line="128" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/DriverHistoryReportGeneratorTest.java">
+    <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="60" column="47" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+        <state relative-caret-position="267">
+          <caret line="30" column="85" selection-start-line="30" selection-start-column="85" selection-end-line="30" selection-end-column="85" />
         </state>
       </provider>
     </entry>

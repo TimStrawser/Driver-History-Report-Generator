@@ -11,6 +11,7 @@ public class Driver {
     private String name;
     private double driverTotalMiles;
     private ArrayList<Trip> trips;
+    public double totalHighwayMiles;
 
     /**
      * Constructor for driver objects
@@ -22,6 +23,7 @@ public class Driver {
         this.name = driverName;
         this.driverTotalMiles = 0.0;
         trips = new ArrayList<Trip>();
+        this.totalHighwayMiles = 0.0;
     }
 
     /**
@@ -78,6 +80,12 @@ public class Driver {
             {
                 trips.add(newTrip);
                 driverTotalMiles += distance;
+
+                if(newTrip.isHighwayMiles())
+                {
+                    this.totalHighwayMiles += newTrip.getTripDistance();
+                }
+
                 return true;
             }
             else
@@ -131,12 +139,24 @@ public class Driver {
         if (this.driverTotalMiles > 0)
         {
             return this.name + ": " + Integer.toString(allMiles) + " miles @ " +
-                    Integer.toString(this.calculateDriverAvgSpeed()) + " mph";
+                    Integer.toString(this.calculateDriverAvgSpeed()) + " mph, " +
+                    "Percentage Highway Miles: " +
+                    this.getPercentHighway();
 
         }
         else
         {
             return this.name + ": " + Integer.toString(allMiles) + " miles";
         }
+    }
+
+    public int getPercentHighway()
+    {
+        if (this.trips.size() >= 1)
+        {
+            return (int)Math.round(this.totalHighwayMiles / this.driverTotalMiles * 100);
+        }
+        return 0;
+
     }
 }

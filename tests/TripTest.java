@@ -57,4 +57,14 @@ public class TripTest {
 
         assertEquals(25.0, journey.getTripDistance(), DELTA);
     }
+
+    @Test
+    public void testIsHighwayMiles()
+    {
+        Trip journey = new Trip("08:00", "09:00", 55.0);
+        assertFalse(journey.isHighwayMiles());
+
+        Trip journey2 = new Trip("08:00", "09:00", 56.0);
+        assertTrue(journey2.isHighwayMiles());
+    }
 }

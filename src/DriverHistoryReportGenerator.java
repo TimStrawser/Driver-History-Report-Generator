@@ -86,31 +86,10 @@ public class DriverHistoryReportGenerator {
             String inputLine;
             while ((inputLine = br.readLine()) != null) {
 
-                // if the line contains "Driver", make a new driver
-                // else if the line contains "Trip" record a new trip.
-                if (inputLine.contains("Driver")) {
-                    String[] line = inputLine.split(" ");
-                    String driverName = line[1];
+                this.sortLine(inputLine);
+                tripSuccess = true;
+                addDriverSuccess = true;
 
-                    Driver newDriver = new Driver(driverName);
-                    addDriverSuccess = this.addDriver(newDriver);
-                } else if (inputLine.contains("Trip")) {
-                    String[] line = inputLine.split(" ");
-                    String driverName = line[1];
-                    String beginTrip = line[2];
-                    String endTrip = line[3];
-                    double length = Double.parseDouble(line[4]);
-
-                    //match trip to the right driver
-                    for (Driver customer : driverList) {
-                        if (customer.getName().equalsIgnoreCase(driverName)) {
-                            tripSuccess = customer.recordNewTrip
-                                    (beginTrip, endTrip, length);
-                        }
-                    }
-                } else {
-                    System.out.println("Incorrect input format.");
-                }
             }
             br.close();
             fr.close();
@@ -128,6 +107,35 @@ public class DriverHistoryReportGenerator {
         else
         {
             return false;
+        }
+    }
+
+    public void sortLine(String inputLine)
+    {
+
+        // if the line contains "Driver", make a new driver
+        // else if the line contains "Trip" record a new trip.
+        if (inputLine.contains("Driver")) {
+            String[] line = inputLine.split(" ");
+            String driverName = line[1];
+
+            Driver newDriver = new Driver(driverName);
+            this.addDriver(newDriver);
+        } else if (inputLine.contains("Trip")) {
+            String[] line = inputLine.split(" ");
+            String driverName = line[1];
+            String beginTrip = line[2];
+            String endTrip = line[3];
+            double length = Double.parseDouble(line[4]);
+
+            //match trip to the right driver
+            for (Driver customer : driverList) {
+                if (customer.getName().equalsIgnoreCase(driverName)) {
+                    customer.recordNewTrip(beginTrip, endTrip, length);
+                }
+            }
+        } else {
+            System.out.println("Incorrect input format.");
         }
     }
 

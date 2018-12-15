@@ -1,8 +1,7 @@
 The Root Drive History Application
 
 @author: Tim Strawser
-@version: 9-5-18
-@contact: 614-406-7082, tstrawser777@gmail.com
+@version: 9-16-18
 
 
 @description:
@@ -29,9 +28,9 @@ The Root Drive History Application
 	
 @testing approach:
 	I used JUnit test cases to thoroughly test every method. The constructors were tested for every class to determine
-	if an object of the class was successully created in memory and if the object's instance variable were properly
+	if an object of the class was successfully created in memory and if the object's instance variable were properly
 	initialized. I think it is important to design every method to return a value. If a method performs an action
 	that does not require a return, I often have it return a boolean value to validate success and ensure post conditions
 	have been met before the program continues. 
 
-@thanks!: Thank you for taking the time to review this application and I greatly appreciate the opportunity!
+@thanks!: Thank you for taking the time to review this application!

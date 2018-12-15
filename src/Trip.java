@@ -81,4 +81,13 @@ public class Trip {
             return speed;
         }
     }
+
+    public boolean isHighwayMiles()
+    {
+        if(this.getTripSpeed() > 55)
+        {
+            return true;
+        }
+        return false;
+    }
 }
