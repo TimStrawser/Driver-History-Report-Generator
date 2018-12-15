@@ -3,7 +3,6 @@ The Root Drive History Application
 @author: Tim Strawser
 @version: 9-16-18
 
-
 @description:
 	This is a Java application that processes an input file consisting of customer names (Drivers), and logs 
 	of their various trips. A report is then generated and output to a file, detailing each driver's name, 
@@ -33,4 +32,3 @@ The Root Drive History Application
 	that does not require a return, I often have it return a boolean value to validate success and ensure post conditions
 	have been met before the program continues. 
 
-@thanks!: Thank you for taking the time to review this application!
